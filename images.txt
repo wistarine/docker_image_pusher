@@ -1,2 +1,1 @@
-alpine
 yisier1/npc:v0.26.19
